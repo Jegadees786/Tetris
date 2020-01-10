@@ -4,7 +4,7 @@ Batch NO : 14
 
 Mentor Name : Ms.R.Jayashree
 
-Github Link : https://github.com/kite-jegadees/Tetris/tree/master
+Github Link : https://github.com/kite-jegadees/Tetris
 
 Team Details :
 
